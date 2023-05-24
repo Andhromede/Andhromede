@@ -51,7 +51,7 @@ I'm a __backend developer__ based in ✨__France__✨ and I currently training m
 
 <!-- [![Spotify](https://github.com/viclafouch/viclafouch/blob/master/img/spotify-480.png)](https://open.spotify.com/track/1HC3nSraaRQ82RJP4TjYTX?si=H27zhrzZQLKeXZoq0rLUNw) -->
 
-## My projects
+## My last projects
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - [👑 An app for Delpharm Lille (France) who needed to manage their reports accident 🔐](https://dev.to/viclafouch/create-a-secure-chat-application-with-react-hooks-firebase-and-seald-2bc1) -->
