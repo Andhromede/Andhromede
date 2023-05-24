@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Andhromede/Andhromede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,11 +24,21 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/nathalie-g-206868205/">Linkedin</a>
 </p> -->
 
-I'm a __backend developer__ based in __France__. I love teaching web development and all kinds of other things online and I'm ready for discussions and making new projects, write blogs on Dev.to etc.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Andhromede&label=Profile%20views&color=0e75b6&style=flat" alt="Andhromede"/></p>
+
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Andhromede" alt="Andhromede"/>
+    </a>
+</p>
+
+
+I'm a __backend developer__ based in ✨__France__✨ and I currently training my .net and C# langage. I'm ready for discussions and making new projects ...
 
 * 💼 Currently in training at [Simplon](https://simplon.co/) <br/>
 <!-- * 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/> -->
-* ✍🏻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-g-206868205/) <br/>
+* 👨‍💻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-g-206868205/) <br/>
+<!-- * ✍🏻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-g-206868205/) <br/> -->
 * 📫 Contact me [n.gibilaro@hotmail.com]
 
 ## My skills
@@ -38,7 +47,7 @@ I'm a __backend developer__ based in __France__. I love teaching web development
   <img align="center" alt="Skills" src="https://zupimages.net/up/23/21/8nb5.png"/>
 </p>
 
-# My song of the moment
+<!-- # My song of the moment -->
 
 <!-- [![Spotify](https://github.com/viclafouch/viclafouch/blob/master/img/spotify-480.png)](https://open.spotify.com/track/1HC3nSraaRQ82RJP4TjYTX?si=H27zhrzZQLKeXZoq0rLUNw) -->
 
