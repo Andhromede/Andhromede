@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center">
-  <!-- <a href="https://www.victor-de-la-fouchardiere.fr/">Website</a> •
-  <a href="https://twitter.com/TrustedSheriff">Twitter</a> • -->
+<!-- <p align="center">
+  <a href="https://www.victor-de-la-fouchardiere.fr/">Website</a> •
+  <a href="https://twitter.com/TrustedSheriff">Twitter</a> •
   <a href="https://www.linkedin.com/in/nathalie-g-206868205/">Linkedin</a>
-</p>
+</p> -->
 
 I'm a __backend developer__ based in __France__. I love teaching web development and all kinds of other things online and I'm ready for discussions and making new projects, write blogs on Dev.to etc.
 
 * 💼 Currently in training at [Simplon](https://simplon.co/) <br/>
 <!-- * 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/> -->
-<!-- * ✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/> -->
+* ✍🏻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-g-206868205/) <br/>
 * 📫 Contact me [n.gibilaro@hotmail.com]
 
 ## My skills
