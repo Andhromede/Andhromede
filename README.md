@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 </p>
 
 
-I'm a __backend developer__ based in ✨__France__✨ and I currently training my .net and C# langage. I'm ready for discussions and making new projects ...
+I'm a __backend developer__ based in ✨ __France__ ✨ and I currently training my .net and C# langage. I'm ready for discussions and making new projects ...
 
 * 💼 Currently in training at [Simplon](https://simplon.co/) <br/>
-<!-- * 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/> -->
+* 🔖 Discover my [Portfolio]( ...incoming...)<br/>
 * 👨‍💻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-g-206868205/) <br/>
 <!-- * ✍🏻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-g-206868205/) <br/> -->
-* 📫 Contact me [andhromede@hotmail.com]
+* 📫 Contact me [andhromede@hotmail.fr]
 
 ## My skills
 
@@ -57,7 +57,8 @@ I'm a __backend developer__ based in ✨__France__✨ and I currently training m
 <!-- - [👑 An app for Delpharm Lille (France) who needed to manage their reports accident 🔐](https://dev.to/viclafouch/create-a-secure-chat-application-with-react-hooks-firebase-and-seald-2bc1) -->
 
 - 🔐 An app for Delpharm Lille (France) who needed to manage their reports accident. 🔐
-- 🍿 The Vetolib app to manage your animals health book. 📦
+- 👑 The Vetolib app to manage your animals health book. 👑
+<!-- - 🍿 The Vetolib app to manage your animals health book. 📦 -->
 - 🤝 A space travel agency app to go on vacation throughout the galaxy.  🍭
 <!-- BLOG-POST-LIST:END -->
 
