@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 I'm a __backend developer__ based in ✨ __France__ ✨ and I currently training my .net and C# langage. I'm ready for discussions and making new projects ...
 
-* 💼 Currently in training at [Simplon](https://simplon.co/) <br/>
-* 🔖 Discover my [Portfolio]( ...incoming...)<br/>
+* 💼 Currently in training at [Simplon](https://simplon.co/) for .net and C#<br/>
+* 🔖 Discover my [Portfolio]( ) --- incomming ---<br/>
 * 👨‍💻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-g-206868205/) <br/>
 <!-- * ✍🏻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-g-206868205/) <br/> -->
 * 📫 Contact me [andhromede@hotmail.fr]
