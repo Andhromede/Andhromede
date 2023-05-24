@@ -51,12 +51,14 @@ I'm a __backend developer__ based in ✨__France__✨ and I currently training m
 
 <!-- [![Spotify](https://github.com/viclafouch/viclafouch/blob/master/img/spotify-480.png)](https://open.spotify.com/track/1HC3nSraaRQ82RJP4TjYTX?si=H27zhrzZQLKeXZoq0rLUNw) -->
 
-## My last 3 DEV articles
+## My projects
 
 <!-- BLOG-POST-LIST:START -->
-- [👑 Create a secure Chat Application with React Hooks, Firebase and Seald 🔐](https://dev.to/viclafouch/create-a-secure-chat-application-with-react-hooks-firebase-and-seald-2bc1)
-- [🍿 Publish your own ESLint / Prettier config for React Projects on NPM 📦](https://dev.to/viclafouch/publish-your-own-eslint-prettier-config-for-react-projects-on-npm-g3p)
-- [🤝 Promise.allSettled() VS Promise.all() in JavaScript 🍭](https://dev.to/viclafouch/promise-allsettled-vs-promise-all-in-javascript-4mle)
+<!-- - [👑 An app for Delpharm Lille (France) who needed to manage their reports accident 🔐](https://dev.to/viclafouch/create-a-secure-chat-application-with-react-hooks-firebase-and-seald-2bc1) -->
+
+- [🔐 An app for Delpharm Lille (France) who needed to manage their reports accident. 🔐]
+- [🍿 The Vetolib app to manage your animals health book. 📦]
+- [🤝 A space travel agency app to go on vacation throughout the galaxy.  🍭]
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
