@@ -39,7 +39,7 @@ I'm a __backend developer__ based in ✨__France__✨ and I currently training m
 <!-- * 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/> -->
 * 👨‍💻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-g-206868205/) <br/>
 <!-- * ✍🏻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-g-206868205/) <br/> -->
-* 📫 Contact me [n.gibilaro@hotmail.com]
+* 📫 Contact me [andhromede@hotmail.com]
 
 ## My skills
 
