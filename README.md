@@ -56,9 +56,9 @@ I'm a __backend developer__ based in ✨__France__✨ and I currently training m
 <!-- BLOG-POST-LIST:START -->
 <!-- - [👑 An app for Delpharm Lille (France) who needed to manage their reports accident 🔐](https://dev.to/viclafouch/create-a-secure-chat-application-with-react-hooks-firebase-and-seald-2bc1) -->
 
-- [🔐 An app for Delpharm Lille (France) who needed to manage their reports accident. 🔐]
-- [🍿 The Vetolib app to manage your animals health book. 📦]
-- [🤝 A space travel agency app to go on vacation throughout the galaxy.  🍭]
+- 🔐 An app for Delpharm Lille (France) who needed to manage their reports accident. 🔐
+- 🍿 The Vetolib app to manage your animals health book. 📦
+- 🤝 A space travel agency app to go on vacation throughout the galaxy.  🍭
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
