@@ -47,10 +47,12 @@ Here are some ideas to get you started:
 
 
 </br>
+</br>
+
 
 I'm a __backend developer__ based in ✨ __France__ ✨ and I currently training my .net and C# langage. I'm ready for discussions and making new projects ...
 
-</br>
+<!-- </br> -->
 
 
 <!-- ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif) -->
