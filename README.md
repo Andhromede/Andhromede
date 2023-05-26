@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there, my name is Nathalie 👋</h1>
-#### C# / .Net developer
+<h3 align="center">C# / .Net developer</h3>
+
 
 <!-- <p align="center">
   <a href="https://www.victor-de-la-fouchardiere.fr/">Website</a> •
@@ -45,31 +46,14 @@ I'm a __backend developer__ based in ✨ __France__ ✨ and I currently training
 </p>
 
 
-
-<!-- ### Soft Skills  -->
-<!-- An infographics generator with 30+ plugins and 200+ options to display stats -->
-<!-- <table>
-  <tr>
-    <th align="center">For user accounts</th>
-    <th align="center">For organization accounts</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.classic.svg">
-      <img width="900" height="1" alt="">
-    </td>
-    <td align="center">
-      <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.organization.svg">
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-</table>   -->
-
-<!-- ### [Snake game from github user contributions graph](https://github.com/Platane/snk) - [Platane](https://github.com/Andhromede/)  -->
-![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+</br>
+</br>
 
 
-## Skills in progress
+<!-- ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif) -->
+
+
+## In progress ... ✍🏻
 
 <p align="center">
   <!-- <img align="center" alt="Skills" src="https://zupimages.net/up/23/21/8nb5.png"/> -->
