@@ -31,12 +31,14 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andhromede&label=Profile%20views&color=0e75b6&style=flat" alt="Andhromede"/></p>
 
 
-* 💼 Currently in training at [Simplon](https://simplon.co/) for .net and C#<br/>
+* 💼 Currently in training at [Simplon](https://simplon.co/)<br/>
 <!-- * 🔖 Discover my [Portfolio]( ) / Incoming<br/> -->
-* 🔖 Discover my [Portfolio (...incoming...]( )<br/>
+* 🔖 Discover my [Portfolio (...incoming...)]( )<br/>
 * 👨‍💻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-gibilaro/) <br/>
 <!-- * ✍🏻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-g-206868205/) <br/> -->
 * 📫 Contact me [andhromede@gmail.com]
+
+<br>
 
 ## My skills 💻
 
