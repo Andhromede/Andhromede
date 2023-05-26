@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi I'm Nathalie 👋</h1>
+<h1 align="center">Hi there, my name is Nathalie 👋</h1>
+#### C# / .Net developer
 
 <!-- <p align="center">
   <a href="https://www.victor-de-la-fouchardiere.fr/">Website</a> •
@@ -36,12 +37,36 @@ I'm a __backend developer__ based in ✨ __France__ ✨ and I currently training
 <!-- * ✍🏻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-g-206868205/) <br/> -->
 * 📫 Contact me [andhromede@gmail.com]
 
-## My skills
+## My skills 💻
 
 <p align="center">
   <!-- <img align="center" alt="Skills" src="https://zupimages.net/up/23/21/8nb5.png"/> -->
   <img align="center" alt="Skills" src="img/technos0.png"/>
 </p>
+
+
+
+<!-- ### Soft Skills  -->
+<!-- An infographics generator with 30+ plugins and 200+ options to display stats -->
+<!-- <table>
+  <tr>
+    <th align="center">For user accounts</th>
+    <th align="center">For organization accounts</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.classic.svg">
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.organization.svg">
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+</table>   -->
+
+<!-- ### [Snake game from github user contributions graph](https://github.com/Platane/snk) - [Platane](https://github.com/Andhromede/)  -->
+![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 
 ## Skills in progress
@@ -71,5 +96,6 @@ I'm a __backend developer__ based in ✨ __France__ ✨ and I currently training
         <img src="https://github-profile-trophy.vercel.app/?username=Andhromede" alt="Andhromede"/>
     </a>
 </p>
+
 
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=viclafouch.viclafouch) -->
