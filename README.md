@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi I'm Nathalie 👋</h1>
 
 <!-- <p align="center">
   <a href="https://www.victor-de-la-fouchardiere.fr/">Website</a> •
@@ -26,20 +26,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andhromede&label=Profile%20views&color=0e75b6&style=flat" alt="Andhromede"/></p>
 
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Andhromede" alt="Andhromede"/>
-    </a>
-</p>
-
 
 I'm a __backend developer__ based in ✨ __France__ ✨ and I currently training my .net and C# langage. I'm ready for discussions and making new projects ...
 
 * 💼 Currently in training at [Simplon](https://simplon.co/) for .net and C#<br/>
-* 🔖 Discover my [Portfolio]( ) / Incoming<br/>
-* 👨‍💻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-g-206868205/) <br/>
+<!-- * 🔖 Discover my [Portfolio]( ) / Incoming<br/> -->
+* 🔖 Discover my [Portfolio (...incoming...]( )<br/>
+* 👨‍💻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-gibilaro/) <br/>
 <!-- * ✍🏻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-g-206868205/) <br/> -->
-* 📫 Contact me [andhromede@hotmail.fr]
+* 📫 Contact me [andhromede@gmail.com]
 
 ## My skills
 
@@ -48,22 +43,33 @@ I'm a __backend developer__ based in ✨ __France__ ✨ and I currently training
   <img align="center" alt="Skills" src="img/technos0.png"/>
 </p>
 
-<!-- # My song of the moment -->
 
+## Skills in progress
+
+<p align="center">
+  <!-- <img align="center" alt="Skills" src="https://zupimages.net/up/23/21/8nb5.png"/> -->
+  <img align="center" alt="Skills" src="img/technos1.png"/>
+</p>
+
+
+<!-- # My song of the moment -->
 <!-- [![Spotify](https://github.com/viclafouch/viclafouch/blob/master/img/spotify-480.png)](https://open.spotify.com/track/1HC3nSraaRQ82RJP4TjYTX?si=H27zhrzZQLKeXZoq0rLUNw) -->
 
-## My last projects
 
-<!-- BLOG-POST-LIST:START -->
-<!-- - [👑 An app for Delpharm Lille (France) who needed to manage their reports accident 🔐](https://dev.to/viclafouch/create-a-secure-chat-application-with-react-hooks-firebase-and-seald-2bc1) -->
-
-- 🔐 An app for Delpharm Lille (France) who needed to manage their reports accident. 🔐
-- 👑 The Vetolib app to manage your animals health book. 👑
+<!-- ## My last projects -->
+<!-- - 🔐 An app for Delpharm Lille (France) who needed to manage their reports accident. 🔐 -->
+<!-- - 👑 The Vetolib app to manage your animals health book. 👑 -->
 <!-- - 🍿 The Vetolib app to manage your animals health book. 📦 -->
-- 🤝 A space travel agency app to go on vacation throughout the galaxy.  🍭
-<!-- BLOG-POST-LIST:END -->
+<!-- - 🤝 A space travel agency app to go on vacation throughout the galaxy.  🍭 -->
+
 
 <br/>
 <br/>
+
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Andhromede" alt="Andhromede"/>
+    </a>
+</p>
 
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=viclafouch.viclafouch) -->
