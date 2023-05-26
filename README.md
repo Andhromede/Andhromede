@@ -44,7 +44,8 @@ I'm a __backend developer__ based in ✨ __France__ ✨ and I currently training
 ## My skills
 
 <p align="center">
-  <img align="center" alt="Skills" src="https://zupimages.net/up/23/21/8nb5.png"/>
+  <!-- <img align="center" alt="Skills" src="https://zupimages.net/up/23/21/8nb5.png"/> -->
+  <img align="center" alt="Skills" src="img/technos0.png"/>
 </p>
 
 <!-- # My song of the moment -->
