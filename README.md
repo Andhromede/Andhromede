@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 -->
 
 
+<p>
+  <h1 align="center">Hi there, my name is Nathalie 👋</h1>
+  <h3 align="center">C# / .Net developer</h3>
+</p>
 
-<h1 align="center">Hi there, my name is Nathalie 👋</h1>
-<h3 align="center">C# / .Net developer</h3>
 
 
 <!-- <p align="center">
@@ -28,8 +30,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andhromede&label=Profile%20views&color=0e75b6&style=flat" alt="Andhromede"/></p>
 
-
-I'm a __backend developer__ based in ✨ __France__ ✨ and I currently training my .net and C# langage. I'm ready for discussions and making new projects ...
 
 * 💼 Currently in training at [Simplon](https://simplon.co/) for .net and C#<br/>
 <!-- * 🔖 Discover my [Portfolio]( ) / Incoming<br/> -->
@@ -47,6 +47,9 @@ I'm a __backend developer__ based in ✨ __France__ ✨ and I currently training
 
 
 </br>
+
+I'm a __backend developer__ based in ✨ __France__ ✨ and I currently training my .net and C# langage. I'm ready for discussions and making new projects ...
+
 </br>
 
 
