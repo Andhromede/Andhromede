@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, my name is Nathalie 👋</h1>
 <p align="center">Software Engineer | Back-End developper (C# / .Net) | front-end developper (React)</p>
 
-
-
-
+<br>
+<br>
 
 ## About Me
 
