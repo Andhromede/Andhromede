@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- <p align="center"> -->
-# Hi there, my name is Nathalie 👋
+<!-- <p>
+  <h1 align="center">Hi there, my name is Nathalie 👋</h1>
+  <h3 align="center">Software Engineer | Back-End developper (C# / .Net) | front-end developper (React)</h3>
+</p> -->
 
-## Software Engineer | Back-End developper (C# / .Net) | front-end developper (React)
-<!-- </p> -->
+
+# [size=7]Hi there, my name is Nathalie[/size] 👋
+## [size=4]Software Engineer | Back-End developper (C# / .Net) | front-end developper (React)[/size]
+
 
 ## About Me
 
