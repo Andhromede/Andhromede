@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 <!-- CONTACT -->
 ## Contact Me ✍🏻
 
-* 💼 Currently in training at [Simplon](https://simplon.co/)<br/>
 <!-- * 🔖 Discover my [Portfolio (...incoming...)]( )<br/> -->
-* 👩‍💻 My linkedIn: [profil](https://www.linkedin.com/in/nathalie-gibilaro/) <br/>
+* 💼 Currently in training at [Simplon](https://simplon.co/)
+* 👩‍💻 My linkedIn: [profil](https://www.linkedin.com/in/nathalie-gibilaro/)
 * 📫 Contact me: [andhromede@gmail.com]
 * 🔭 I’m currently learning C# and .Net
 
