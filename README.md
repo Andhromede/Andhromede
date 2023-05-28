@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 <p align="center">Software Engineer | Back-End developper (C# / .Net) | front-end developper (React)</p>
 
 <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Andhromede&label=Profile%20views&color=0e75b6&style=flat" alt="Andhromede"/></p>
+
 <br>
 
 ## About Me
@@ -38,7 +41,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/nathalie-g-206868205/">Linkedin</a>
 </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Andhromede&label=Profile%20views&color=0e75b6&style=flat" alt="Andhromede"/></p>
 
 
 ## Contact Me
