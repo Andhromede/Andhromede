@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </p> -->
 
 
-# Hi there, my name is Nathalie 👋
-Software Engineer | Back-End developper (C# / .Net) | front-end developper (React)
+<h1 align="center">Hi there, my name is Nathalie 👋</h1>
+<p align="center">Software Engineer | Back-End developper (C# / .Net) | front-end developper (React)</p>
 
 
 
