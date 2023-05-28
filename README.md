@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Skills" src="img/technos0.png"/>
 </p>
 
-</br> </br> </br>
+</br> </br>
 
 <!-- ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif) -->
 
