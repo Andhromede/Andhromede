@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 </p>
 
 
+## About Me
+Software Engineer | Back-End developper | front-end developper | Dogs Lover
+
+😄💬 Hello ! I'm Nath, a passionate software engineer with a strong interest in new technologies. I enjoy working on challenging problems and building innovative solutions. My expertise lies in back-end development, but I'm always eager to learn and develop my knowledge.
+
 
 <!-- <p align="center">
   <a href="https://www.victor-de-la-fouchardiere.fr/">Website</a> •
@@ -31,12 +36,12 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andhromede&label=Profile%20views&color=0e75b6&style=flat" alt="Andhromede"/></p>
 
 
+## Contact Me
 * 💼 Currently in training at [Simplon](https://simplon.co/)<br/>
-<!-- * 🔖 Discover my [Portfolio]( ) / Incoming<br/> -->
-* 🔖 Discover my [Portfolio (...incoming...)]( )<br/>
-* 👨‍💻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-gibilaro/) <br/>
+<!-- * 🔖 Discover my [Portfolio (...incoming...)]( )<br/> -->
+* 👨‍💻 My linkedIn: [profil](https://www.linkedin.com/in/nathalie-gibilaro/) <br/>
 <!-- * ✍🏻 My linkedIn [profil](https://www.linkedin.com/in/nathalie-g-206868205/) <br/> -->
-* 📫 Contact me [andhromede@gmail.com]
+* 📫 Contact me: [andhromede@gmail.com]
 
 <br>
 
@@ -88,5 +93,13 @@ I'm a __backend developer__ based in ✨ __France__ ✨ and I currently training
     </a>
 </p>
 
+
+## Interests
+- New technologies
+- Infographics
+- Role play games
+- Horror movies
+- Hard rock
+- Swimming
 
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=viclafouch.viclafouch) -->
