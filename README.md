@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 
 
+
+
 ## About Me
 
 😄💬 Hello ! I'm Nath, a passionate software engineer with a strong interest in new technologies. I enjoy working on challenging problems and building innovative solutions. My expertise lies in back-end development, but I'm always eager to learn and develop my knowledge.
