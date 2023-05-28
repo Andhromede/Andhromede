@@ -33,9 +33,10 @@ Here are some ideas to get you started:
 
 <!-- * 🔖 Discover my [Portfolio (...incoming...)]( )<br/> -->
 * 💼 Currently in training at [Simplon](https://simplon.co/)
+* 🔭 I’m currently learning __C# and .Net__
 * 👩‍💻 My linkedIn: [profil](https://www.linkedin.com/in/nathalie-gibilaro/)
 * 📫 Contact me: [andhromede@gmail.com]
-* 🔭 I’m currently learning C# and .Net
+
 
 <br>
 
