@@ -65,19 +65,19 @@ Here are some ideas to get you started:
 
 <br/> <br/>
 
-<!-- <p>
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andhromede&show_icons=true&locale=en&layout=compact" alt="Andhromede"/>
-</p> -->
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andhromede&show_icons=true&locale=en" alt="Andhromede"/>
 </p>
 
 
-<p align="left"> 
+<!-- <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=Andhromede" alt="Andhromede"/>
     </a>
-</p>
+</p> -->
 
 
 <!-- INTERESTS -->
